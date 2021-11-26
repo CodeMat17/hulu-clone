@@ -6,7 +6,7 @@ export default function Home({ results }) {
   return (
     <div className="min-h-screen">
       <Head>
-        <title>Hulu-Clone | Home </title>
+        <title>Hulu-Clone. <div className=""></div> | Home </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {/* Body */}
